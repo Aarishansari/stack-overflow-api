@@ -1,0 +1,11 @@
+Tools Needed
+
+
+latest version in 2021
+
+django 
+python3
+pip
+djangorestframework
+bs4
+ratelimit
